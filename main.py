@@ -32,11 +32,8 @@ def createDuplicates():
         
 
 checkDuplication()
-# create/Duplicates()
-# def similarityCheck():
-#     for i in os.listdir(path="C:/kaggler/Airbnb Data/Test Data/bathroom"):
-#         if i.endswith(".jpg"):
-#             file_path=os.path.join("C:/kaggler/Airbnb Data/Test Data/bathroom",i)
+createDuplicates()
+
 
     
       
